@@ -3,4 +3,4 @@
 
 ![](images.jpeg "Optional image title")
 
-[Link to Google](https://www.google.com)
+[Link to Sophie's Slimes](https://sophiesslimes.square.site/)
