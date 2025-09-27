@@ -1,3 +1,3 @@
 # iamsophiely.github.io
 
-![Alt text for the image](image.jpg "Optional image title")
+![Alt text for the image](images.jpeg "Optional image title")
