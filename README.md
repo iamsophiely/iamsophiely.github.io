@@ -1,6 +1,9 @@
-# image heading
-## image heading 2
+# This is Me & My Dog!
 
 ![](images.jpeg "Optional image title")
 
-[Link to Sophie's Slimes](https://sophiesslimes.square.site/)
+## This is My Love, Theatre!
+
+![](images.jpeg "Optional image title")
+
+[My Old Small Business: Sophie's Slimes!](https://sophiesslimes.square.site/)
