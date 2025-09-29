@@ -1,3 +1,5 @@
+# Sophie Ly Biography
+
 ## This is Me & My Dog!
 
 ![](images.jpeg "Optional image title")
