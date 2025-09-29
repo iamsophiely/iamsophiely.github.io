@@ -1,4 +1,4 @@
-# This is Me & My Dog!
+## This is Me & My Dog!
 
 ![](images.jpeg "Optional image title")
 
